@@ -1,0 +1,15 @@
+﻿Name;Quantity;Component
+U1;1;Arduino Uno R3
+U2;1;H-bridge Motor Driver
+U3;1;Temperature Sensor [TMP36]
+D1;1;Yellow LED
+R1;1;Photoresistor
+R2;1;220 Ω Resistor
+R3;1;10 kΩ Resistor
+M1;1;DC Motor
+P1;1;26.2 , 3.3 Power Supply
+P2;1;5 , 5 Power Supply
+U4;1;LCD 16 x 2
+K1;1;Relay SPDT
+R4;1;1 kΩ Resistor
+L1;1;Light bulb
